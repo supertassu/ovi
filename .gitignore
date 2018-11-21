@@ -1,0 +1,4 @@
+backend/save.db
+frontend/.next
+
+**/node_modules
